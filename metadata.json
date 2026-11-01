@@ -1,0 +1,6 @@
+{
+  "name": "Oven Bites Cafe & Pizzeria",
+  "description": "Premium 3D animated restaurant and online ordering platform for Oven Bites Cafe & Pizzeria in Bahawalpur, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
